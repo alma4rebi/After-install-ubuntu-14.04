@@ -1,2 +1,55 @@
 # After-install-ubuntu-14.04
 After Install Ubuntu 14.04
+
+sudo apt-get install -y synaptic
+sudo apt-get install -y inkscape 
+sudo apt-get install -y gimp 
+apt-get install -y gimp-data 
+apt-get install -y gimp-plugin-registry 
+apt-get install -y gimp-data-extras 
+apt-get install -y y-ppa-manager 
+apt-get install -y bleachbit 
+apt-get install -y openjdk-7-jre 
+apt-get install -y oracle-java8-installer 
+apt-get install -y flashplugin-installer 
+apt-get install -y unace 
+apt-get install -y unrar 
+apt-get install -y zip 
+apt-get install -y unzip 
+apt-get install -y p7zip-full 
+apt-get install -y p7zip-rar 
+apt-get install -y sharutils 
+apt-get install -y rar 
+apt-get install -y uudeview 
+apt-get install -y mpack 
+apt-get install -y arj 
+apt-get install -y cabextract 
+apt-get install -y file-roller 
+apt-get install -y libxine1-ffmpeg 
+apt-get install -y mencoder 
+apt-get install -y flac 
+apt-get install -y faac 
+apt-get install -y faad 
+apt-get install -y sox 
+apt-get install -y ffmpeg2theora 
+apt-get install -y libmpeg2-4 
+apt-get install -y uudeview 
+apt-get install -y libmpeg3-1 
+apt-get install -y mpeg3-utils 
+apt-get install -y mpegdemux 
+apt-get install -y liba52-dev 
+apt-get install -y mpeg2dec 
+apt-get install -y vorbis-tools 
+apt-get install -y id3v2 mpg321 
+apt-get install -y mpg123 
+apt-get install -y libflac++6 
+apt-get install -y totem-mozilla 
+apt-get install -y icedax lame 
+apt-get install -y libmad0 
+apt-get install -y libjpeg-progs 
+apt-get install -y libdvdcss2 
+apt-get install -y libdvdread4 
+apt-get install -y libdvdnav4 
+apt-get install -y libswscale-extra-2 
+apt-get install -y ubuntu-restricted-extras 
+apt-get install -y ubuntu-wallpapers*
